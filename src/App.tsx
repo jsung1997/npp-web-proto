@@ -1,6 +1,6 @@
 // FILE: src/App.tsx
 
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Routes, Route, useNavigate, useLocation } from 'react-router-dom';
 
 import BayesianPage from './pages/BayesianPage/BayesianPage';
